@@ -2,7 +2,7 @@
 Este proyecto es una animación estilo "Matrix" que muestra un texto personalizado cayendo en columnas, con controles de velocidad, color y contenido. Ideal para usar como fondo animado romántico o interactivo.
 
 ## 📸 Vista previa
-<img src="nombre-de-tu-imagen.png" alt="Descripción" />
+<img src="imagen-ejemplo.jpg" alt="imagen de ejemplo" style="width: 500px;"/>
 
 ## 🚀 Cómo usar
 - Cloná o descargá el repositorio.
